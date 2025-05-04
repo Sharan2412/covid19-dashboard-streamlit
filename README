@@ -1,0 +1,27 @@
+# Real-Time COVID-19 Dashboard
+
+An interactive dashboard that visualizes global COVID-19 trends using live data from public APIs. Built with Streamlit and Plotly for clean, responsive visualizations.
+
+## Features
+- Live COVID-19 data via external API
+- Country-specific case tracking
+- Daily vs cumulative graphs
+- Responsive charts using Plotly
+- Easy deployment on Streamlit Cloud
+
+## Technologies Used
+- Python
+- Streamlit
+- Pandas
+- Plotly
+- REST API (disease.sh)
+
+## Screenshots
+*Insert screenshots here if available*
+
+## Run Locally
+
+1. Clone the repo  
+```bash
+git clone https://github.com/yourusername/covid19-dashboard-streamlit
+cd covid19-dashboard-streamlit
